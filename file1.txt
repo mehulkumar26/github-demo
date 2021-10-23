@@ -1,0 +1,1 @@
+Short tandem repeats (STRs) are highly repetitive genomic sequences comprised of repeated copies of an underlying motif. Prevalent in most organisms’ genomes, STRs are of particular interest because they mutate much more rapidly than most other genomic elements. As a result, they’re extremely informative for genomic identification, ancestry inference and genealogy.
